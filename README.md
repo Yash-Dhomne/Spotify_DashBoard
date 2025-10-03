@@ -1,4 +1,4 @@
-![Spotify_DashBoard_page-0001](https://github.com/user-attachments/assets/47101728-2973-488e-bed0-5657918be4c8)# Spotify_DashBoard
+# Spotify_DashBoard
 https://app.powerbi.com/links/lt8F72ly70?ctid=9c190d5b-9405-4465-8642-0d75bee7f01e&pbi_source=linkShare
 This project is an interactive Power BI dashboard built on Spotify dataset(s) to analyze song trends, artist popularity, and listening patterns. The goal is to provide insights into top artists, popular songs, release patterns, and other engagement metrics using Spotify streaming data.
 
